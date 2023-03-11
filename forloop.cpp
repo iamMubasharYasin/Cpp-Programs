@@ -4,6 +4,6 @@ int main()
 {
 	for(int i = 1; i<=10; i++)
 	{
-		cout<<"Hello For loop";
+		cout<<"Hello For loop"<<endl;
 	}
 }
