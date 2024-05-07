@@ -70,3 +70,5 @@ void Table()
 		cout<<num<<"x"<<i<<"="<<num*i<<endl;
 	}
 }
+
+//work fine
